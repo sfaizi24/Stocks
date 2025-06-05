@@ -11,7 +11,7 @@ import numpy as np # For pd.NA
 API = "7cNMpVzb43GKtm05iRTDWJtyJXSylX8J" # Please replace with your actual key if different
 
 # Rate limiting configuration
-API_CALLS_PER_MINUTE = 300
+API_CALLS_PER_MINUTE = 750
 # For the main data processing loop (BS, Price, Profile, Income Stmt)
 API_CALLS_PER_TICKER_PROCESSING = 4 
 TICKERS_PER_MINUTE_PROCESSING = API_CALLS_PER_MINUTE // API_CALLS_PER_TICKER_PROCESSING
@@ -38,8 +38,8 @@ def get_json(url: str, params: Dict[str, Any] = {}) -> Optional[List[Dict]]:
         response = requests.get(url, params=params, timeout=20) # Increased timeout
         
         if response.status_code == 429:
-            print(f"\n⚠️ Rate limit hit! Waiting 60 seconds...")
-            time.sleep(61) # Wait a bit more than 60s
+            print(f"\n⚠️ Rate limit hit! Waiting 30 seconds...")
+            time.sleep(30)
             return get_json(url, params)
             
         response.raise_for_status()

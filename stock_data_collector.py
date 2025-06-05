@@ -18,8 +18,8 @@ import argparse
 API_KEY = "7cNMpVzb43GKtm05iRTDWJtyJXSylX8J"
 
 # Rate limiting configuration
-API_CALLS_PER_MINUTE = 300
-SECONDS_PER_CALL = 60 / API_CALLS_PER_MINUTE  # 0.2 seconds per call
+API_CALLS_PER_MINUTE = 750
+SECONDS_PER_CALL = 60 / API_CALLS_PER_MINUTE  # 0.08 seconds per call
 
 # Market cap threshold (1 billion)
 MARKET_CAP_THRESHOLD = 1e9
@@ -32,8 +32,8 @@ def get_json(url: str, params: Dict[str, Any] = {}) -> Optional[Any]:
         
         # Handle rate limiting
         if response.status_code == 429:
-            print(f"⚠️  Rate limit hit! Waiting 60 seconds...")
-            time.sleep(60)
+            print(f"⚠️  Rate limit hit! Waiting 30 seconds...")
+            time.sleep(30)
             return get_json(url, params)  # Retry
             
         response.raise_for_status()
