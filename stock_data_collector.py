@@ -159,12 +159,12 @@ def process_ticker_year(ticker: str, year: int) -> Tuple[Optional[pd.DataFrame],
             return None, error_log, api_calls
             
         bs_df = (
-            bs_df[['date', 'shortTermDebt', 'longTermDebt', 'totalAssets', 
-                   'totalStockholdersEquity', 'commonStock']]
+            bs_df[['date', 'shortTermDebt', 'longTermDebt', 'totalAssets',
+                   'totalStockholdersEquity', 'commonStockSharesOutstanding']]
             .assign(
                 quarter=lambda d: d.date.dt.to_period("Q"),
                 debt_to_assets=lambda d: (
-                    (d.shortTermDebt.fillna(0) + d.longTermDebt.fillna(0)) / 
+                    (d.shortTermDebt.fillna(0) + d.longTermDebt.fillna(0)) /
                     d.totalAssets.replace(0, pd.NA)
                 ),
                 book_value=lambda d: d.totalStockholdersEquity
@@ -222,7 +222,11 @@ def process_ticker_year(ticker: str, year: int) -> Tuple[Optional[pd.DataFrame],
             industry=industry,
             sector=sector,
             # Book-to-Market = Book Value per Share / Price per Share
-            book_to_market=lambda d: (d.book_value / d.shares_outstanding) / d.stock_price,
+            book_to_market=lambda d: (
+                d.book_value
+                /
+                d.shares_outstanding.fillna(d.commonStockSharesOutstanding).replace(0, pd.NA)
+            ) / d.stock_price,
             # Earnings Yield = EPS / Price
             earnings_yield=lambda d: d.eps / d.stock_price
         )
