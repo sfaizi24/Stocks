@@ -1,6 +1,7 @@
 # Stocks Data Collection
 
 This repository contains a notebook for downloading historical stock fundamentals.
+Retrieving the ticker list now uses a single API call and should take only a few seconds.
 
 ## API Key
 
