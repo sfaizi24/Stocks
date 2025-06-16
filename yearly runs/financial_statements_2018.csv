@@ -1,0 +1,240 @@
+ticker,company_name,fiscal_quarter,fiscal_year,calendar_date,debt_to_assets,book_to_market,earnings_yield,industry,sector
+AAGPX,American Beacon Large Cap Value Fund Investor Class,Q1,2019,2018-10-31,0.0,3.553602741742123,0.029975020815986676,Asset Management,Financial Services
+AAGPX,American Beacon Large Cap Value Fund Investor Class,Q2,2019,2019-01-31,0.0,3.586451170447302,0.03025210084033613,Asset Management,Financial Services
+AAISX,American Beacon International Equity Fund Advisor Class,Q1,2019,2019-03-31,0.011443552049524889,2.6797031335305634,-0.027340513670256836,Asset Management,Financial Services
+ABCVX,American Beacon The London Company Income Equity Fund Investor Class,Q4,2018,2018-12-31,0.01196862068475349,2.288446444407368,0.05117085862966175,Asset Management - Income,Financial Services
+ABCVX,American Beacon The London Company Income Equity Fund Investor Class,Q1,2019,2019-03-31,0.011443552049524889,2.4282294911196622,-0.024774774774774775,Asset Management - Income,Financial Services
+ACEVX,American Century International Value Fund Investor Class,Q1,2019,2019-01-31,0.0,1.7206056418793274,0.05351170568561873,Asset Management,Financial Services
+ADX,"Adams Diversified Equity Fund, Inc.",Q4,2017,2017-12-31,0.0,2.44557101110866,0.2701949860724234,Asset Management,Financial Services
+ADX,"Adams Diversified Equity Fund, Inc.",Q2,2018,2018-06-30,0.0,2.428618105052132,0.05962059620596206,Asset Management,Financial Services
+ADX,"Adams Diversified Equity Fund, Inc.",Q4,2018,2018-12-31,0.0,2.161548441585877,-0.14513788098693758,Asset Management,Financial Services
+AFJAX,Virtus NFJ International Value Fund,Q2,2018,2018-05-31,0.13575462303207028,0.532191009663454,0.004428485936564931,Asset Management,Financial Services
+AFJAX,Virtus NFJ International Value Fund,Q3,2018,2018-08-31,0.13575462303207028,0.5435765141489192,0.0045232273838630805,Asset Management,Financial Services
+AFJAX,Virtus NFJ International Value Fund,Q1,2019,2019-02-28,0.03251325864295053,0.5829533175203322,-0.010752688172043012,Asset Management,Financial Services
+ANTUX,Non-U.S. Intrinsic Value Fund Investor Class,Q1,2019,2019-01-31,0.0,1.4933558401216804,0.04644412191582003,Asset Management,Financial Services
+APHKX,Artisan International Value Fund Institutional Class,Q4,2018,2018-12-31,0.2475683652706661,0.11204367449887163,0.023868312757201644,Asset Management,Financial Services
+APHKX,Artisan International Value Fund Institutional Class,Q1,2019,2019-03-31,0.2198960849852732,0.06491745030815771,0.01704133430021755,Asset Management,Financial Services
+ARGVX,One Choice 2060 Portfolio - Investor Class,Q1,2019,2019-03-31,0.33046374024792113,1.47131809606993,0.057672502574665295,,
+ARGX,argenx SE,Q4,2017,2017-12-31,0.0,0.23636222139877325,-0.011294117647058823,Biotechnology,Healthcare
+ARGX,argenx SE,Q2,2018,2018-06-30,0.0,0.1435063282999561,-0.007482500603427468,Biotechnology,Healthcare
+ARGX,argenx SE,Q4,2018,2018-12-31,0.0,0.18601029754398948,-0.014052253565108776,Biotechnology,Healthcare
+ARTHX,Artisan Global Equity Fund Investor Shares,Q1,2019,2019-03-31,0.0,1.4948209634448737,0.12384161752316765,Asset Management - Global,Financial Services
+ATESX,Anchor Risk Managed Equity Strategies Fund - Institutional Class,Q2,2018,2018-07-31,0.0,1.330745333221785,0.0202020202020202,Asset Management,Financial Services
+ATESX,Anchor Risk Managed Equity Strategies Fund - Institutional Class,Q3,2018,2018-10-31,0.0,1.3504488518230187,0.02050113895216401,Asset Management,Financial Services
+ATESX,Anchor Risk Managed Equity Strategies Fund - Institutional Class,Q4,2018,2019-01-31,0.0,1.3666926341922805,0.0418552036199095,Asset Management,Financial Services
+AWF,AllianceBernstein Global High Income Fund,Q2,2017,2017-09-30,0.04565567179570189,1.8896828161744796,0.08064516129032258,Asset Management - Income,Financial Services
+AWF,AllianceBernstein Global High Income Fund,Q4,2017,2018-03-31,0.0,1.928688687543793,-0.011550497866287339,Asset Management - Income,Financial Services
+AWF,AllianceBernstein Global High Income Fund,Q2,2018,2018-09-30,0.024224027660223125,1.855146175770501,0.016783216783216783,Asset Management - Income,Financial Services
+AWF,AllianceBernstein Global High Income Fund,Q4,2018,2019-03-31,0.007430858258409032,1.7410520359980133,0.014784946236559139,Asset Management - Income,Financial Services
+BBN,BlackRock Taxable Municipal Bond Trust,Q4,2017,2018-01-31,0.3587301050147385,1.6972923735195258,0.020923520923520924,Asset Management - Bonds,Financial Services
+BBN,BlackRock Taxable Municipal Bond Trust,Q2,2018,2018-07-31,0.3548338044580239,1.6138654833099664,0.015416958654519973,Asset Management - Bonds,Financial Services
+BBN,BlackRock Taxable Municipal Bond Trust,Q4,2018,2019-01-31,0.37051447306993107,1.541108028814854,0.02178352620830497,Asset Management - Bonds,Financial Services
+BDJ,BlackRock Enhanced Equity Dividend Trust,Q4,2017,2017-12-31,0.0,2.0541914142776596,0.15670103092783508,Asset Management,Financial Services
+BDJ,BlackRock Enhanced Equity Dividend Trust,Q2,2018,2018-06-30,0.0,1.9314747852078407,-0.012771084337349397,Asset Management,Financial Services
+BDJ,BlackRock Enhanced Equity Dividend Trust,Q4,2018,2018-12-31,0.0,2.0081052331271594,-0.13793103448275862,Asset Management,Financial Services
+BHP,BHP Group Limited,Q2,2018,2017-12-31,0.24633600397932173,0.8469571778651849,0.0278108859753675,Industrial Materials,Basic Materials
+BHP,BHP Group Limited,Q4,2018,2018-06-30,0.2501763503076085,0.7502528915323702,0.06632277081798084,Industrial Materials,Basic Materials
+BHP,BHP Group Limited,Q2,2019,2018-12-31,0.26090182982795324,0.7074910793111241,0.05644262903824731,Industrial Materials,Basic Materials
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,Q2,2018,2018-06-30,0.0328780305162217,3.372089723337364,0.17845554834523036,Banks,Financial Services
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,Q3,2018,2018-09-30,0.03643380300783223,3.160536726562132,0.0850673194614443,Banks,Financial Services
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,Q4,2018,2018-12-31,0.026814942605203698,3.2806323313501826,0.06410256410256411,Banks,Financial Services
+BPOPM,Popular Capital Trust II PFD GTD 6.125%,Q1,2019,2019-03-31,0.024168351064316022,3.1678094240234227,0.0975889781859931,Banks,Financial Services
+BTI,British American Tobacco p.l.c.,Q4,2017,2017-12-31,0.3122491810717679,0.6884424588562228,0.39882623118142385,Tobacco,Consumer Defensive
+BTI,British American Tobacco p.l.c.,Q2,2018,2018-06-30,0.3404326987179037,0.917755507709599,0.03944315545243619,Tobacco,Consumer Defensive
+BTI,British American Tobacco p.l.c.,Q4,2018,2018-12-31,0.32143198808271034,1.4718159699316058,0.07501267105930055,Tobacco,Consumer Defensive
+BTT,Blackrock Municipal 2030 Target Term Trust,Q2,2018,2018-01-31,0.0,1.3914663881002503,0.019929660023446663,Asset Management,Financial Services
+BTT,Blackrock Municipal 2030 Target Term Trust,Q4,2018,2018-07-31,0.0,1.3550143147400857,0.01721170395869191,Asset Management,Financial Services
+BTT,Blackrock Municipal 2030 Target Term Trust,Q2,2019,2019-01-31,0.0,1.3171975305087438,0.03636363636363637,Asset Management,Financial Services
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,Q4,2017,2017-12-31,0.0006125995245427328,1.7226834528087525,0.1056422569027611,Asset Management - Income,Financial Services
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,Q2,2018,2018-06-30,0.0,1.6172761675140959,-0.007573270808909732,Asset Management - Income,Financial Services
+BXMX,Nuveen S&P 500 Buy-Write Income Fund,Q4,2018,2018-12-31,0.0,1.6655082565559007,-0.09247027741083222,Asset Management - Income,Financial Services
+CCEP,Coca-Cola Europacific Partners PLC,Q4,2017,2017-12-31,0.31592832802022647,0.43002942087093554,0.015605493133583021,Beverages - Non-Alcoholic,Consumer Defensive
+CCEP,Coca-Cola Europacific Partners PLC,Q2,2018,2018-06-29,0.3052795531446372,0.41782900235493586,0.025510204081632654,Beverages - Non-Alcoholic,Consumer Defensive
+CCEP,Coca-Cola Europacific Partners PLC,Q4,2018,2018-12-31,0.30841018884497146,0.3536005791117433,0.026495278069254988,Beverages - Non-Alcoholic,Consumer Defensive
+CRH,CRH plc,Q4,2017,2017-12-31,0.2546108804413113,0.5750663985043303,0.05752508361204014,Construction Materials,Basic Materials
+CRH,CRH plc,Q2,2018,2018-06-30,0.32054593992616626,0.620538264922568,0.015223274695534507,Construction Materials,Basic Materials
+CRH,CRH plc,Q4,2018,2018-12-31,0.2663975208256333,0.8705132173965973,0.0522757999098693,Construction Materials,Basic Materials
+DELNX,DoubleLine Low Duration Emerging Markets Fixed Income Fund Class N,Q1,2018,2018-06-30,0.00024425178274263077,2.119184866377825,0.021794871794871797,Asset Management - Income,Financial Services
+DELNX,DoubleLine Low Duration Emerging Markets Fixed Income Fund Class N,Q2,2018,2018-09-30,0.00024425178274263077,2.1003356998407923,0.021601016518424398,Asset Management - Income,Financial Services
+DELNX,DoubleLine Low Duration Emerging Markets Fixed Income Fund Class N,Q3,2018,2018-12-31,3.81615625913343e-05,2.0700190116468713,0.011675126903553299,Asset Management - Income,Financial Services
+DELNX,DoubleLine Low Duration Emerging Markets Fixed Income Fund Class N,Q4,2018,2019-03-31,3.81615625913343e-05,2.0014416946966067,0.011288343558282208,Asset Management - Income,Financial Services
+DEO,Diageo plc,Q2,2018,2017-12-31,0.3330343498770846,0.0649976075094228,0.027029254223320972,Beverages - Wineries & Distilleries,Consumer Defensive
+DEO,Diageo plc,Q4,2018,2018-06-30,0.3408043075887599,0.06614016049427204,0.012495889510029596,Beverages - Wineries & Distilleries,Consumer Defensive
+DEO,Diageo plc,Q2,2019,2018-12-31,0.374649467190129,0.06288111442964907,0.026335281046827422,Beverages - Wineries & Distilleries,Consumer Defensive
+DFUSX,DFA US Large Company Portfolio,Q1,2019,2018-10-31,0.0,2.631243460439143,0.022194821208384712,,
+DFUSX,DFA US Large Company Portfolio,Q2,2019,2019-01-31,0.0,2.6215460029682367,0.022113022113022112,,
+DHLYX,Diamond Hill Large Cap Fund Class Y,Q1,2019,2018-10-31,0.0,2.4485811203857084,0.02065404475043029,Asset Management,Financial Services
+DHLYX,Diamond Hill Large Cap Fund Class Y,Q2,2019,2019-01-31,0.0,2.4499867352653784,0.020665901262916186,Asset Management,Financial Services
+DNP,DNP Select Income Fund Inc.,Q4,2017,2017-10-31,0.25578373205145133,1.5337463456730789,0.06758832565284179,Asset Management - Income,Financial Services
+DNP,DNP Select Income Fund Inc.,Q2,2018,2018-04-30,0.2739060229967078,1.38522350364714,-0.08588957055214726,Asset Management - Income,Financial Services
+DNP,DNP Select Income Fund Inc.,Q4,2018,2018-10-31,0.2705018465389586,1.3344152196181296,0.058910162002945514,Asset Management - Income,Financial Services
+DSL,DoubleLine Income Solutions Fund,Q4,2017,2017-09-30,0.285814093810537,2.256727867201989,0.15392561983471076,Asset Management - Income,Financial Services
+DSL,DoubleLine Income Solutions Fund,Q2,2018,2018-03-31,0.0,2.213649355910633,0.011578947368421053,Asset Management - Income,Financial Services
+DSL,DoubleLine Income Solutions Fund,Q4,2018,2018-09-30,0.0,2.0278965597509786,0.011892963330029732,Asset Management - Income,Financial Services
+DSL,DoubleLine Income Solutions Fund,Q2,2019,2019-03-31,0.0,1.9087654598423138,0.013295346628679964,Asset Management - Income,Financial Services
+ETIGX,Parametric Tax-Managed International Equity Fund Investor Class,Q1,2019,2019-01-31,0.0,1.253979079515584,0.038403422346930706,Asset Management,Financial Services
+FADLX,Frost Low Duration Bond Fund Investor Class Shares,Q4,2018,2018-12-31,3.81615625913343e-05,1.87707132471546,0.010586881472957423,Asset Management - Bonds,Financial Services
+FADLX,Frost Low Duration Bond Fund Investor Class Shares,Q1,2019,2019-03-31,3.81615625913343e-05,1.8599486672494125,0.010490307867730902,Asset Management - Bonds,Financial Services
+FAGNX,Fidelity Advisor Energy Fund Class M,Q1,2019,2019-03-31,0.0,0.5761238104819426,0.027470567249375667,Asset Management,Financial Services
+FAMI,"Farmmi, Inc.",Q2,2018,2018-03-31,0.11275900650767,0.0027990548825206287,0.0001953125,Packaged Foods,Consumer Defensive
+FAMI,"Farmmi, Inc.",Q4,2018,2018-09-30,0.09494633470008172,0.0030494013031517222,0.0003365079365079365,Packaged Foods,Consumer Defensive
+FAMI,"Farmmi, Inc.",Q2,2019,2019-03-31,0.23684048996759474,0.0057615990485064906,-4.468599033816425e-05,Packaged Foods,Consumer Defensive
+FAX,Abrdn Asia-Pacific Income Fund Inc,Q4,2017,2017-10-31,0.0,0.38897750214948307,0.0130945558739255,Asset Management - Income,Financial Services
+FAX,Abrdn Asia-Pacific Income Fund Inc,Q2,2018,2018-04-30,0.0,0.38780839128017514,-0.0061886792452830195,Asset Management - Income,Financial Services
+FCIRX,Fiera Capital International Equity Fund Investor Class,Q1,2019,2019-03-31,0.0,1.7498545203245215,0.14497041420118342,Asset Management,Financial Services
+FCTFX,Fidelity California Municipal Income Fund,Q4,2018,2018-11-30,0.36608165924503383,1.4194204341665435,0.004434947768281102,Asset Management - Income,Financial Services
+FCTFX,Fidelity California Municipal Income Fund,Q1,2019,2019-02-28,0.36608165924503383,1.380101308566362,0.004312096029547553,Asset Management - Income,Financial Services
+FFEGX,Fidelity Freedom Index 2030 Fund,Q1,2019,2019-03-31,0.250450728341025,1.067273005804089,0.007262164124909223,Asset Management,Financial Services
+FFFEX,Fidelity Freedom 2030 Fund,Q1,2019,2019-03-31,0.250450728341025,1.260407314744623,0.008576329331046312,Asset Management,Financial Services
+FMIHX,FMI Large Cap Fund Investor Class,Q1,2019,2019-03-31,0.1603685722778163,1.187240040552318,-0.030269058295964126,Asset Management,Financial Services
+FNILX,Fidelity ZERO Large Cap Index Fund,Q1,2019,2019-03-31,0.1603685722778163,1.1375060324088804,-0.02900107411385607,Asset Management,Financial Services
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Q4,2017,2017-10-31,0.30624036530656584,1.8084956948219946,0.12455261274158912,Asset Management - Income,Financial Services
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Q2,2018,2018-04-30,0.0,1.8310488445820117,-0.02361005331302361,Asset Management - Income,Financial Services
+FPF,First Trust Intermediate Duration Preferred & Income Fund,Q4,2018,2018-10-31,0.0,1.847983090100952,-0.02831715210355987,Asset Management - Income,Financial Services
+FSUTX,Fidelity Select Utilities Growth Portfolio,Q1,2019,2019-03-31,0.16995395166499583,0.4918772939544484,0.026018435920309245,,
+FTIEX,Fidelity Total International Equity Fund,Q1,2019,2019-03-31,0.0774669547438189,0.25374027178775566,0.023591087811271297,Asset Management,Financial Services
+FWRLX,Fidelity Select Wireless,Q1,2019,2019-01-31,0.24990202372512882,1.8199450588574453,0.11678832116788321,,
+GAB,The Gabelli Equity Trust Inc.,Q4,2017,2017-12-31,8.571754968829383e-08,2.7977292898105754,0.22068965517241382,Asset Management,Financial Services
+GAB,The Gabelli Equity Trust Inc.,Q2,2018,2018-06-30,0.0,2.5789513284592394,0.02758169934640523,Asset Management,Financial Services
+GAB,The Gabelli Equity Trust Inc.,Q4,2018,2018-12-31,0.0,2.606881701897007,-0.25,Asset Management,Financial Services
+GDV,The Gabelli Dividend & Income Trust,Q4,2017,2017-12-31,0.0,2.1596263369370754,0.17061611374407584,Asset Management - Income,Financial Services
+GDV,The Gabelli Dividend & Income Trust,Q2,2018,2018-06-30,0.0,1.6337282327957625,-0.034106412005457026,Asset Management - Income,Financial Services
+GDV,The Gabelli Dividend & Income Trust,Q4,2018,2018-12-31,0.0,1.674678353707082,-0.22693877551020405,Asset Management - Income,Financial Services
+GFI,Gold Fields Limited,Q4,2017,2017-12-31,0.2691046963036812,1.0560524843145356,-0.026455026455026457,Gold,Basic Materials
+GFI,Gold Fields Limited,Q2,2018,2018-06-30,0.3122255604344812,1.080041760252643,-0.1461038961038961,Gold,Basic Materials
+GFI,Gold Fields Limited,Q4,2018,2018-12-31,0.32688432744131185,0.9258717249368579,0.007344262295081967,Gold,Basic Materials
+GRFS,"Grifols, S.A.",Q1,2019,2019-03-31,0.02464834524968692,0.34610609674402,0.008993971393880397,Drug Manufacturers - General,Healthcare
+HF,DGA Core Plus Absolute Return ETF,Q2,2018,2018-06-30,0.00041272734525793156,0.19633978748901962,0.018049490538573507,,Financial Services
+HF,DGA Core Plus Absolute Return ETF,Q3,2018,2018-09-30,0.0037385441855480855,0.18218277926294177,0.018103858980466892,,Financial Services
+HF,DGA Core Plus Absolute Return ETF,Q4,2018,2018-12-31,0.004619761250179185,0.269777112077981,0.03468033775633293,,Financial Services
+HF,DGA Core Plus Absolute Return ETF,Q1,2019,2019-03-31,9.04836732227038e-05,0.16327387902125617,0.014869109947643979,,Financial Services
+HFRO,Highland Funds I - Highland Income Fund,Q2,2018,2018-06-30,0.0,,,Asset Management - Income,Financial Services
+HJPSX,Hennessy Japan Small Cap Fund Investor Class,Q1,2019,2019-03-31,0.1603685722778163,0.782718489410693,-0.019955654101995568,Asset Management,Financial Services
+IHG,InterContinental Hotels Group PLC,Q4,2017,2017-12-31,0.7625196850393701,-0.08101756551469383,0.028220221606648197,Travel Lodging,Consumer Cyclical
+IHG,InterContinental Hotels Group PLC,Q2,2018,2018-06-30,0.6464421855146124,-0.1122677533796826,0.022303537201603066,Travel Lodging,Consumer Cyclical
+IHG,InterContinental Hotels Group PLC,Q4,2018,2018-12-31,0.7151612043698374,-0.11775855608408618,0.012731251243286253,Travel Lodging,Consumer Cyclical
+JANIX,Janus Henderson Triton Fund Class D,Q1,2019,2019-03-31,0.04533610513875639,1.1605404323159185,0.02201834862385321,Asset Management,Financial Services
+JOBBX,JPMorgan SmartRetirement Blend 2040 Fund Class R5,Q1,2019,2019-03-31,0.16472693248411827,0.8850407124681935,-0.01577608142493639,Asset Management,Financial Services
+JQC,Nuveen Credit Strategies Income Fund,Q2,2018,2018-01-31,0.2826275149685396,2.6040240667379564,0.023828571428571428,Asset Management - Income,Financial Services
+JQC,Nuveen Credit Strategies Income Fund,Q4,2018,2018-07-31,0.2761033089841655,2.5963330719111193,0.06837606837606838,Asset Management - Income,Financial Services
+JQC,Nuveen Credit Strategies Income Fund,Q2,2019,2019-01-31,0.3576340805498621,2.4354863339305117,-0.035798319327731094,Asset Management - Income,Financial Services
+LADVX,Lord Abbett Developing Growth Fund Class R6,Q1,2019,2019-03-31,0.5627709453927618,1.0657885517139962,-0.011454183266932273,Asset Management,Financial Services
+MFH,Mercurity Fintech Holding Inc.,Q4,2017,2017-12-31,0.09821250310641114,,,Financial - Capital Markets,Financial Services
+MFH,Mercurity Fintech Holding Inc.,Q2,2018,2018-06-30,0.10875974034961454,0.5830262985663316,-1.8828451882845187,Financial - Capital Markets,Financial Services
+MFH,Mercurity Fintech Holding Inc.,Q4,2018,2018-12-31,1.4472675210725727,,,Financial - Capital Markets,Financial Services
+NAC,Nuveen California Quality Municipal Income Fund,Q4,2017,2018-02-28,0.011445144931532402,1.6177912301297128,-0.025586353944562896,Asset Management - Income,Financial Services
+NAC,Nuveen California Quality Municipal Income Fund,Q2,2018,2018-08-31,0.011859627543622133,1.5762719855275393,0.03634475597092419,Asset Management - Income,Financial Services
+NAC,Nuveen California Quality Municipal Income Fund,Q4,2018,2019-02-28,0.37529633638598264,1.5212999241006953,0.009502538071065991,Asset Management - Income,Financial Services
+NAD,Nuveen Quality Municipal Income Fund,Q4,2017,2017-10-31,0.35174363924423896,1.626733604120866,0.07391763463569165,Asset Management - Income,Financial Services
+NAD,Nuveen Quality Municipal Income Fund,Q2,2018,2018-04-30,0.0003633912251161072,1.641482746239895,-0.02433628318584071,Asset Management - Income,Financial Services
+NAD,Nuveen Quality Municipal Income Fund,Q4,2018,2018-10-31,0.018206508589052192,1.6329751749182497,-0.00939977349943375,Asset Management - Income,Financial Services
+NCV,Virtus Convertible & Income Fund,Q4,2017,2018-02-28,4.956196305719432e-05,0.8656172353723609,0.026229508196721315,Asset Management - Income,Financial Services
+NCV,Virtus Convertible & Income Fund,Q2,2018,2018-08-31,0.13575462303207028,0.6696469707436986,0.015060240963855423,Asset Management - Income,Financial Services
+NCV,Virtus Convertible & Income Fund,Q4,2018,2019-02-28,0.03251325864295053,0.730305640873182,0.0792393026941363,Asset Management - Income,Financial Services
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,Q4,2017,2017-10-31,0.2090148630231028,1.6134138714207593,0.07494646680942184,Asset Management - Income,Financial Services
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,Q2,2018,2018-04-30,0.3756285004661592,1.6254615254347753,-0.01886033519553073,Asset Management - Income,Financial Services
+NEA,Nuveen AMT-Free Quality Municipal Income Fund,Q4,2018,2018-10-31,0.0,1.625540684855803,-0.007393800229621124,Asset Management - Income,Financial Services
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",Q4,2017,2018-01-31,0.0,2.051188090371429,0.16867469879518074,Asset Management,Financial Services
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",Q2,2018,2018-07-31,0.0,2.0009102194708963,-0.02253061224489796,Asset Management,Financial Services
+NFJ,"Virtus Dividend, Interest & Premium Strategy Fund",Q4,2018,2019-01-31,0.0,1.9095961211441421,-0.10451977401129943,Asset Management,Financial Services
+NGG,National Grid plc,Q2,2018,2017-09-30,0.47804878048780486,0.6063756063756064,0.02260914760914761,Regulated Electric,Utilities
+NGG,National Grid plc,Q4,2018,2018-03-31,0.46898123734839336,0.7395364545290324,0.11460992907801419,Regulated Electric,Utilities
+NGG,National Grid plc,Q2,2019,2018-09-30,0.47175183082366495,0.8396534457217968,0.01875,Regulated Electric,Utilities
+NGG,National Grid plc,Q4,2019,2019-03-31,0.46077855248320443,0.7895257223506056,0.043322295805739514,Regulated Electric,Utilities
+NOLCX,Northern Large Cap Core Fund,Q1,2019,2018-10-31,0.0,3.461376231007534,0.029197080291970802,Asset Management,Financial Services
+NOLCX,Northern Large Cap Core Fund,Q2,2019,2019-01-31,0.0,3.472641898154833,0.02929210740439382,Asset Management,Financial Services
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,Q4,2017,2018-02-28,0.3715924786796503,1.6082599622906348,-0.03903559127439724,Asset Management - Income,Financial Services
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,Q2,2018,2018-08-31,1.8598199414145306e-05,1.6085158901775798,0.04328018223234625,Asset Management - Income,Financial Services
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund,Q4,2018,2019-02-28,0.3682808768974571,1.524839313720056,0.028077753779697626,Asset Management - Income,Financial Services
+NUV,"Nuveen Municipal Value Fund, Inc.",Q4,2017,2017-10-31,0.0030493635244729428,1.34415678252852,0.044386422976501305,Asset Management,Financial Services
+NUV,"Nuveen Municipal Value Fund, Inc.",Q2,2018,2018-04-30,0.00026099111350925166,1.366023608435527,-0.010886766712141883,Asset Management,Financial Services
+NUV,"Nuveen Municipal Value Fund, Inc.",Q4,2018,2018-10-31,0.023362648496763727,1.3663754211356418,0.0015277777777777776,Asset Management,Financial Services
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,Q4,2017,2017-10-31,0.04636505846499746,1.6227391296297295,0.1,Asset Management - Income,Financial Services
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,Q2,2018,2018-04-30,0.07707846848407018,1.5877084947529954,-0.003942115768463074,Asset Management - Income,Financial Services
+NVG,Nuveen AMT-Free Municipal Credit Income Fund,Q4,2018,2018-10-31,0.07827364286867113,1.6553223219613884,-0.003411764705882353,Asset Management - Income,Financial Services
+NZF,Nuveen Municipal Credit Income Fund,Q4,2017,2017-10-31,0.3618315424807817,1.606651429426277,0.09619238476953908,Asset Management - Income,Financial Services
+NZF,Nuveen Municipal Credit Income Fund,Q2,2018,2018-04-30,0.38275474876949805,1.6056388735187412,-0.014350986500519209,Asset Management - Income,Financial Services
+NZF,Nuveen Municipal Credit Income Fund,Q4,2018,2018-10-31,0.008893952621396922,1.6201929706828515,0.0006881720430107526,Asset Management - Income,Financial Services
+PCIEX,PACE International Equity Investments Class P,Q1,2019,2019-03-31,0.07403922037449746,2.4662889189182216,0.1514052583862194,,
+PDI,PIMCO Dynamic Income Fund,Q2,2017,2017-12-31,0.0,2.2678174008304395,0.15615141955835962,Asset Management - Income,Financial Services
+PDI,PIMCO Dynamic Income Fund,Q4,2017,2018-06-30,0.0,1.9275830054919958,0.08876163206871868,Asset Management - Income,Financial Services
+PDI,PIMCO Dynamic Income Fund,Q2,2018,2018-12-31,0.0,2.0128789272798304,-0.20236336779911376,Asset Management - Income,Financial Services
+PHK,PIMCO High Income Fund,Q4,2018,2018-07-31,0.16341672223391318,1.7436438731677562,0.05714285714285714,Asset Management - Income,Financial Services
+PHK,PIMCO High Income Fund,Q2,2019,2019-01-31,0.14170745327333048,1.551851883467373,0.013887640449438202,Asset Management - Income,Financial Services
+PMX,PIMCO Municipal Income Fund III,Q4,2018,2018-12-31,0.0,0.4888742857893382,-0.0016212871287128714,Asset Management - Income,Financial Services
+PSGCX,Virtus KAR Small-Cap Growth Fund Class C,Q3,2018,2018-05-31,0.13575462303207028,0.5058575375157022,0.004209358952174514,Asset Management,Financial Services
+PSGCX,Virtus KAR Small-Cap Growth Fund Class C,Q4,2018,2018-08-31,0.13575462303207028,0.47534145208746975,0.003955427463847794,Asset Management,Financial Services
+PSGCX,Virtus KAR Small-Cap Growth Fund Class C,Q2,2019,2019-02-28,0.03251325864295053,0.49944738846996267,-0.00921240494762504,Asset Management,Financial Services
+PSO,Pearson plc,Q4,2017,2017-12-31,0.13755070993914809,0.6055680810933514,0.06372549019607843,Publishing,Communication Services
+PSO,Pearson plc,Q2,2018,2018-06-30,0.14431639601885804,0.540254442145746,0.024742268041237116,Publishing,Communication Services
+PSO,Pearson plc,Q4,2018,2018-12-31,0.09399114484503479,0.5783471177921204,0.051792828685258974,Publishing,Communication Services
+PUK,Prudential plc,Q4,2017,2017-12-31,0.024948037780434987,0.4609229602365879,0.014184397163120569,Insurance - Life,Financial Services
+PUK,Prudential plc,Q2,2018,2018-06-30,0.023316657652559653,0.9647308243288795,0.02211595935445308,Insurance - Life,Financial Services
+PUK,Prudential plc,Q4,2018,2018-12-31,0.024999082082709435,0.35749591827551574,0.021431305013394568,Insurance - Life,Financial Services
+RDHL,RedHill Biopharma Ltd.,Q1,2019,2019-03-31,0.05275742250662263,1.6831215705538855e-05,-0.0015872291904218928,Drug Manufacturers - Specialty & Generic,Healthcare
+RELX,RELX Plc,Q4,2017,2017-12-31,0.4046242774566474,0.05825469190869343,0.024024024024024024,Publishing,Communication Services
+RELX,RELX Plc,Q2,2018,2018-06-30,0.513974564008834,0.05741434692378212,0.018201284796573878,Publishing,Communication Services
+RELX,RELX Plc,Q4,2018,2018-12-31,0.45467533395242515,0.06623100373100373,0.021396396396396396,Publishing,Communication Services
+RIO,Rio Tinto Group,Q4,2017,2017-12-31,0.15853582098907298,0.8580516614982915,0.10477499141188594,Industrial Materials,Basic Materials
+RIO,Rio Tinto Group,Q2,2018,2018-06-30,0.15320735341719594,0.7916422868023303,0.08194034742707308,Industrial Materials,Basic Materials
+RIO,Rio Tinto Group,Q4,2018,2018-12-31,0.14021044761349769,0.9344795937301328,0.19795096963044276,Industrial Materials,Basic Materials
+RNNEX,American Funds The New Economy Fund Class R-2E,Q1,2019,2019-03-31,0.01592070949888429,0.1674902463969741,0.004774154509834772,Asset Management,Financial Services
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",Q4,2017,2017-12-31,0.23635145589326637,1.917322291548463,0.06488011283497885,Asset Management - Income,Financial Services
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",Q2,2018,2018-06-30,0.2442930376857072,1.8411300190595286,-0.01371994342291372,Asset Management - Income,Financial Services
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",Q4,2018,2018-12-31,0.26395329731087325,1.8502906489568034,-0.12618296529968456,Asset Management - Income,Financial Services
+RTO,Rentokil Initial plc,Q4,2017,2017-12-31,0.38951636258326094,0.12863896203206895,0.01438109912686184,Specialty Business Services,Industrials
+RTO,Rentokil Initial plc,Q2,2018,2018-06-30,0.38003897211058335,0.12841277130347512,0.010618651892890121,Specialty Business Services,Industrials
+RTO,Rentokil Initial plc,Q4,2018,2018-12-31,0.41070907025799125,0.1128731537141838,-0.024975024975024976,Specialty Business Services,Industrials
+RVT,Royce Value Trust Inc.,Q4,2017,2017-12-31,0.04501564308066367,1.8799033500880533,0.18907103825136612,Asset Management,Financial Services
+RVT,Royce Value Trust Inc.,Q2,2018,2018-06-30,0.0,0.5439729304178377,5.3995680345572353e-05,Asset Management,Financial Services
+RVT,Royce Value Trust Inc.,Q4,2018,2018-12-31,0.0,1.730254715787316,-1.0400552486187846,Asset Management,Financial Services
+SBSW,Sibanye Stillwater Limited,Q4,2017,2017-12-31,0.337174879521715,11.391174706122078,-1.0501193317422435,Gold,Basic Materials
+SBSW,Sibanye Stillwater Limited,Q2,2018,2018-06-30,0.350685708647822,23.236322497492637,-1.154639175257732,Gold,Basic Materials
+SBSW,Sibanye Stillwater Limited,Q4,2018,2018-12-31,0.288551982384042,19.329842830178762,-0.9911504424778763,Gold,Basic Materials
+SMYIX,Franklin Global Equity Fund Class I,Q1,2019,2019-03-31,0.0,1.4437367645313792,0.11960943856794143,Asset Management - Global,Financial Services
+SNN,Smith & Nephew plc,Q4,2017,2017-12-31,0.18459191456903126,0.18124809829164965,0.03409478349812479,Medical - Devices,Healthcare
+SNN,Smith & Nephew plc,Q2,2018,2018-06-30,0.19525476468300274,0.16563031670626874,0.020050125313283207,Medical - Devices,Healthcare
+SNN,Smith & Nephew plc,Q4,2018,2018-12-31,0.18215659511105597,0.17426109941979875,0.027482823235477825,Medical - Devices,Healthcare
+SSL,Sasol Limited,Q2,2018,2017-12-31,0.22648367934289723,11.474487098119354,0.37671004337671005,Chemicals - Specialty,Basic Materials
+SSL,Sasol Limited,Q4,2018,2018-06-30,0.257814154154382,11.179024007204475,0.09231722428748451,Chemicals - Specialty,Basic Materials
+SSL,Sasol Limited,Q2,2019,2018-12-31,0.1884261346439177,14.552910285156004,0.9150726855394032,Chemicals - Specialty,Basic Materials
+STEW,"SRH Total Return Fund, Inc.",Q2,2018,2018-05-31,0.003761984512680216,,,Asset Management,Financial Services
+STLA,Stellantis N.V.,Q4,2017,2017-12-31,0.18842355580016407,0.9955000693484333,0.07642124883504194,Auto - Manufacturers,Consumer Cyclical
+STLA,Stellantis N.V.,Q2,2018,2018-06-30,0.16603875945628258,1.318514833335855,0.08727272727272727,Auto - Manufacturers,Consumer Cyclical
+STLA,Stellantis N.V.,Q4,2018,2018-12-31,0.14996954775840535,1.4971372242921672,0.08907363420427554,Auto - Manufacturers,Consumer Cyclical
+TEI,Templeton Emerging Markets Income Fund,Q4,2017,2017-12-31,0.00012650345281275445,2.248169455144182,0.06701940035273368,Asset Management - Income,Financial Services
+TISVX,Transamerica International Sm Cp Val I,Q1,2019,2019-03-31,0.4907601753469198,0.5310754823713548,0.0020714285714285713,,
+TNBIX,1290 SmartBeta Equity Fund Class I,Q1,2019,2019-03-31,0.0,1.7012008471803117,0.14093959731543623,Asset Management,Financial Services
+TRTFX,T. Rowe Price Target Retirement 2060 Fund,Q1,2019,2019-03-31,0.33046374024792113,1.5182251554557937,0.05951115834218917,Asset Management,Financial Services
+TY,Tri-Continental Corporation,Q4,2017,2017-12-31,0.0,2.040129569658992,0.1962066710268149,Asset Management,Financial Services
+TY,Tri-Continental Corporation,Q2,2018,2018-06-30,0.0,1.9845169440057897,0.04471808165910564,Asset Management,Financial Services
+TY,Tri-Continental Corporation,Q4,2018,2018-12-31,0.0,1.9022074453424227,-0.14583333333333334,Asset Management,Financial Services
+TY-P,Tri-Continental Corporation PFD $2.50,Q4,2017,2017-12-31,0.0,0.8742595605405264,0.08408071748878924,Asset Management,Financial Services
+TY-P,Tri-Continental Corporation PFD $2.50,Q2,2018,2018-06-30,0.0,0.826703467764831,0.01862850971922246,Asset Management,Financial Services
+TY-P,Tri-Continental Corporation PFD $2.50,Q4,2018,2018-12-31,0.0,0.7092642986258645,-0.05437597099948214,Asset Management,Financial Services
+TYG,Tortoise Energy Infrastructure Corporation,Q4,2017,2017-11-30,0.30788401684493294,1.8122598487622388,-0.24909541039801944,Asset Management,Financial Services
+TYG,Tortoise Energy Infrastructure Corporation,Q2,2018,2018-05-31,0.2238026159893664,,,Asset Management,Financial Services
+TYG,Tortoise Energy Infrastructure Corporation,Q4,2018,2018-11-30,0.2277349943669867,,,Asset Management,Financial Services
+UL,Unilever PLC,Q4,2017,2017-12-31,0.3953222194575765,0.11535647194102366,0.024917724494593327,Household & Personal Products,Consumer Defensive
+UL,Unilever PLC,Q2,2018,2018-06-30,0.4688202336108385,0.09724615472737176,0.025447042640990375,Household & Personal Products,Consumer Defensive
+UL,Unilever PLC,Q4,2018,2018-12-31,0.44042653390742736,0.10415367355908112,0.057279236276849645,Household & Personal Products,Consumer Defensive
+USA,Liberty All-Star Equity Fund,Q4,2017,2017-12-31,0.0003410808935464494,2.3128920572378266,0.2222222222222222,Asset Management,Financial Services
+USA,Liberty All-Star Equity Fund,Q2,2018,2018-06-30,0.0,2.1173030240066257,0.07523510971786834,Asset Management,Financial Services
+USA,Liberty All-Star Equity Fund,Q4,2018,2018-12-31,0.002479821668845024,2.089169668955802,-0.1843971631205674,Asset Management,Financial Services
+UTF,"Cohen & Steers Infrastructure Fund, Inc",Q4,2017,2017-12-31,0.2773992354269404,1.8729229576459545,0.1144534115920763,Asset Management,Financial Services
+UTF,"Cohen & Steers Infrastructure Fund, Inc",Q2,2018,2018-06-30,0.0,1.7807885343591536,-0.044510385756676554,Asset Management,Financial Services
+UTF,"Cohen & Steers Infrastructure Fund, Inc",Q4,2018,2018-12-31,0.0,1.7921949478402683,-0.0698051948051948,Asset Management,Financial Services
+UTG,Reaves Utility Income Fund,Q4,2017,2017-10-31,0.0,1.8128405172005935,0.04923413566739606,Asset Management - Income,Financial Services
+UTG,Reaves Utility Income Fund,Q4,2018,2018-10-31,0.22192159564783046,1.668081049119969,0.10299527062532841,Asset Management - Income,Financial Services
+VOD,Vodafone Group Public Limited Company,Q2,2018,2017-09-30,0.2488288447547883,1.472158551645695,0.0316301703163017,Telecommunications Services,Communication Services
+VOD,Vodafone Group Public Limited Company,Q4,2018,2018-03-31,0.3120506005727589,1.4985488291523843,0.06719609040928529,Telecommunications Services,Communication Services
+VOD,Vodafone Group Public Limited Company,Q2,2019,2018-09-30,0.37442765225198266,1.6440578444264784,-0.11949215832710978,Telecommunications Services,Communication Services
+VOD,Vodafone Group Public Limited Company,Q4,2019,2019-03-31,0.4006873766291946,1.9175814150738704,-0.0026293469041560645,Telecommunications Services,Communication Services
+WDS,Woodside Energy Group Ltd,Q4,2017,2017-12-31,0.1994172998936966,1.0568068348428519,0.019417475728155338,Oil & Gas Exploration & Production,Energy
+WDS,Woodside Energy Group Ltd,Q2,2018,2018-06-30,0.15469821415115667,1.0991060394263592,0.034822983168891465,Oil & Gas Exploration & Production,Energy
+WDS,Woodside Energy Group Ltd,Q4,2018,2018-12-31,0.15102628470171295,1.271542068910791,0.029911624745071377,Oil & Gas Exploration & Production,Energy
+WMKGX,WesMark Large Company Fund,Q1,2019,2018-10-31,0.0,4.007396143504497,0.03380281690140845,Asset Management,Financial Services
+WMKGX,WesMark Large Company Fund,Q2,2019,2019-01-31,0.0,4.02629895550216,0.033962264150943396,Asset Management,Financial Services
+WPP,WPP plc,Q4,2017,2017-12-31,0.17558848342978006,0.5768354785129239,0.07428396385357634,Advertising Agencies,Communication Services
+WPP,WPP plc,Q2,2018,2018-06-30,0.2060972969071421,0.6596396921768667,0.04650361694798485,Advertising Agencies,Communication Services
+WPP,WPP plc,Q4,2018,2018-12-31,0.19664459056859485,0.9104309040839683,0.037512100677637945,Advertising Agencies,Communication Services
