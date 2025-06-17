@@ -1,0 +1,47 @@
+[
+  {
+    "ticker": "AFTFX",
+    "errors": [
+      "No income statement data",
+      "No balance sheet data",
+      "No cash flow data",
+      "No ratios data"
+    ]
+  },
+  {
+    "ticker": "VASIX",
+    "errors": [
+      "No income statement data",
+      "No balance sheet data",
+      "No cash flow data",
+      "No ratios data"
+    ]
+  },
+  {
+    "ticker": "VOHIX",
+    "errors": [
+      "No income statement data",
+      "No balance sheet data",
+      "No cash flow data",
+      "No ratios data"
+    ]
+  },
+  {
+    "ticker": "RWL",
+    "errors": [
+      "No income statement data",
+      "No balance sheet data",
+      "No cash flow data",
+      "No ratios data"
+    ]
+  },
+  {
+    "ticker": "FDSSX",
+    "errors": [
+      "No income statement data",
+      "No balance sheet data",
+      "No cash flow data",
+      "No ratios data"
+    ]
+  }
+]
